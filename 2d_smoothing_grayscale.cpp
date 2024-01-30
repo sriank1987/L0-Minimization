@@ -17,8 +17,8 @@ using namespace Eigen;
 
 int main() {
 
-    string ip_path = "C:/Users/asrivast/source/repos/L0Minimization/inputs/1_gray.png";
-    string op_path = "C:/Users/asrivast/source/repos/L0Minimization/outputs/1_gray.png";
+    string ip_path = "Enter input path of the image here";
+    string op_path = "Enter output path of the image here";
 
     int width, height, channels;
     //Loading the input image
