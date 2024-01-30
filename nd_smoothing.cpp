@@ -19,8 +19,8 @@ typedef vector<MatrixXf> rgb;
 
 int main() {
 
-    string ip_path = "C:/Users/asrivast/source/repos/L0Minimization/inputs/1_gray.png";
-    string op_path = "C:/Users/asrivast/source/repos/L0Minimization/outputs/1_gray.png";
+    string ip_path = "Enter path of the imput image here";
+    string op_path = "Enter path of the output image here";
 
     vector<int> dims = {876, 584};
 
